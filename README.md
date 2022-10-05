@@ -4,7 +4,7 @@ A Express JS server that requires an Okta token to verify the user's identity in
 ## Setup
 In the main.js file replace the ORG_NAME_HERE with your Okta organization's name. The name can be found in the top right side of your Okta dev page, and should be something similar to dev-12345678.
 
-Ensure to have checked to have correctly setted up the following complementary projects:
+Ensure to have correctly setted up the following complementary projects:
 - Okta setup with Pulumi: https://github.com/Cis8/PulumiOktaApplicationSetupATIPLCourse
 - Angular WebApp: https://github.com/Cis8/AngularWebAppWithOktaAuthenticationRedirectAndREST_API_ATIPLCourse
 
